@@ -1,4 +1,4 @@
-![Header](https://github.com/jumabekova06/jumabekova06/blob/main/assets/ен.png)
+![Header](https://github.com/jumabekova06/jumabekova06/blob/main/assets/def.jpeg)
 
 ## MY INSTAGRAM
 
