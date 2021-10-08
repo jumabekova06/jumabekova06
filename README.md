@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/httpswww.instagram.combatya_312_.gif" width="550" height="280" />
 ![Header](https://github.com/jumabekova06/jumabekova06/blob/main/assets/def.png)
 
 ## Languages and Tools
