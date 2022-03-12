@@ -3,7 +3,6 @@
 ## Tg-channels:
 * 📚 [Python | Backend ](https://t.me/python_itkg) - Канал для Python-разработчиков
 * 📚 [QA google](https://t.me/qa_google) -Канал про QA
-* 📚 [Scraping with Python](https://t.me/pythonparser) - Канал про парсинг данных
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
