@@ -2,7 +2,7 @@
 
 ## Tg-channels:
 * 📚 [Python | Backend ](https://t.me/backenddt) - Канал для Python-разработчиков
-* 📚 [QA google](https://t.me/qa_google) -Канал про QA
+* 📚 [QA google](https://t.me/metaback) - Канал про QA на Java
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
